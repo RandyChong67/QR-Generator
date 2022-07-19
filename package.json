@@ -1,0 +1,24 @@
+{
+  "name": "qr-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "qrcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RandyChong67/QR-Generator.git"
+  },
+  "keywords": [
+    "qr",
+    "code",
+    "generator"
+  ],
+  "author": "randy chong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RandyChong67/QR-Generator/issues"
+  },
+  "homepage": "https://github.com/RandyChong67/QR-Generator#readme"
+}
