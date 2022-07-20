@@ -6,6 +6,6 @@
 
         qrcode.clear();
 
-        if (e.target.value !== '') { qrcode.makeCode($input.val()); }
+        if (e.target.value.trim() !== '') { qrcode.makeCode($input.val()); }
     });
 })();
